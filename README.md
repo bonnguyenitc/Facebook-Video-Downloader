@@ -10,3 +10,9 @@ Facebook Video Downloader in PHP
 php composer.phar require
 php -S localhost:3000
 ```
+
+# Usage
+
+```
+GET: http://localhost:3000/main.php
+```
